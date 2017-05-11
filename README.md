@@ -3,8 +3,9 @@ A "reminder app" with added features and a friendly interface.
 
 Features to implement:
 + Daily Reminders Trigger
-+ Eye-Strain counter 
-+ Pomodoro timer 
++ Thought Bubbles (with customizable inputs)
++ Eye-Strain Counter 
++ Pomodoro timer (maybe?) 
 
 ## Installation
 TODO: Describe the installation process
